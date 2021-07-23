@@ -62,3 +62,15 @@ K:\MS\API_testing\TodoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.
 K:\MS\API_testing\TodoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 K:\MS\API_testing\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.csproj.AssemblyReference.cache
 K:\MS\API_testing\TodoApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\TodoApi.styles.css
+K:\MS\API_testing\TodoApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+K:\MS\API_testing\TodoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+K:\MS\API_testing\TodoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+K:\MS\API_testing\TodoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+K:\MS\API_testing\TodoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+K:\MS\API_testing\TodoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+K:\MS\API_testing\TodoApi\bin\Debug\netcoreapp3.1\Json.Net.dll
+K:\MS\API_testing\TodoApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+K:\MS\API_testing\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+K:\MS\API_testing\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+K:\MS\API_testing\TodoApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+K:\MS\API_testing\TodoApi\obj\Debug\netcoreapp3.1\TodoApi.MvcApplicationPartsAssemblyInfo.cs

@@ -21,8 +21,9 @@ namespace TodoApi
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<TodoContext>(opt =>
-                                               opt.UseInMemoryDatabase("TodoList"));
+            services.AddSwaggerGen();
+            services.AddDbContext<TodoContext>(options =>
+              options.UseSqlServer(Configuration.GetConnectionString("MyDbConnection")));
             services.AddControllers();
             services.AddCors(options =>
             {
@@ -35,6 +36,7 @@ namespace TodoApi
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            app.UseSwagger();
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

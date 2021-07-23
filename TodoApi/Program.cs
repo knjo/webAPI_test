@@ -5,6 +5,10 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
+using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
+using System.Data;
+using System.Text;
 using Microsoft.Extensions.Logging;
 
 namespace TodoApi
@@ -13,7 +17,7 @@ namespace TodoApi
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
+        CreateHostBuilder(args).Build().Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
